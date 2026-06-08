@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lautaro Navarro\\Desktop\\Visual studio\\Ejercicios-Programacion1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Lautaro Navarro\\Desktop\\Visual studio -  Programacion 1\\Ejercicios-CorregirErrores\\CorreccionErrores\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Lautaro Navarro\\Desktop\\Visual studio\\Ejercicios-Programacion1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\Lautaro Navarro\\Desktop\\Visual studio -  Programacion 1\\Ejercicios-CorregirErrores\\CorreccionErrores\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Lautaro Navarro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lautaro Navarro\\Desktop\\Visual studio\\Ejercicios-Programacion1\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Lautaro Navarro\\Desktop\\Visual studio -  Programacion 1\\Ejercicios-CorregirErrores\\CorreccionErrores\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
